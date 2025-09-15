@@ -1,4 +1,27 @@
- <!DOCTYPE html>
+
+
+ 
+ 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Profil Farhan — Enhanced</title>
+  <!-- ... CSS kamu tetap sama ... -->
+</head>
+<body>
+  <!-- ... semua HTML/CSS/JS yang kamu punya tetap ... -->
+
+  <main class="content">
+    <!-- ... isi profilmu tetap ... -->
+
+    
+  </main>
+
+  <!-- ... script JS kamu tetap ... -->
+</body>
+</html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
